@@ -8,8 +8,6 @@ twitter: CamSpilman
 tags: design
 ---
 
-Delete
-
 `[Subject heading]` Invitation to paid-for research for University of Sheffield / Research community because we want to know how to help you better when you are publishing your research outputs
 
 Hello (first name),
